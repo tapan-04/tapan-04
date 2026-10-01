@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Tapan 👋
 
-<!--
-**tapan-04/tapan-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Electronics and Communication Engineering graduate specializing exclusively in ASIC/SoC Design Verification. I am currently advancing my verification expertise through intensive training at **Maven Silicon**, focused on architecting robust testbenches and ensuring silicon success.
 
-Here are some ideas to get you started:
+### 🛠️ Technical Arsenal
+* **Hardware Description:** SystemVerilog, Verilog
+* **EDA Tools:** Cadence Virtuoso, EDA Playground
+* **Core Competencies:** Digital Logic (FSMs, Microprocessor Architectures), Protocol Verification, Testbench Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Trajectory
+I am currently transitioning foundational digital design concepts into industry-standard verification IP. My immediate focus is mastering advanced SystemVerilog and UVM methodologies at Maven Silicon to ultimately architect and verify complex silicon for semiconductor leaders like Qualcomm.
+
+📫 **Let's Connect:** https://www.linkedin.com/in/damisettytapan/
