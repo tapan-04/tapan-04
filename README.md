@@ -11,4 +11,4 @@ I am an Electronics and Communication Engineering graduate specializing exclusiv
 ### 🚀 Current Trajectory
 I am currently transitioning foundational digital design concepts into industry-standard verification IP. My immediate focus is mastering advanced SystemVerilog and UVM methodologies to architect and verify complex silicon for semiconductor leaders.
 
-📫 **Let's Connect:** [https://www.linkedin.com/in/damisettytapan/]
+📫 **Let's Connect:** https://www.linkedin.com/in/damisettytapan/
